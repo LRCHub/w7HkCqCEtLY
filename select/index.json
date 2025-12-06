@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ノンブレス・オブリージュ",
+  "base_artist": "PinocchioP",
+  "createdAt": "2025-12-06T06:26:39.649437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ノンブレス・オブリージュ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ - 十五少女 Cover",
+      "artist": "Fifteen voices",
+      "has_synced": true,
+      "path": "select/02_ノンブレス・オブリージュ_-_十五少女_Cover_Fifteen_voices.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ(十五少女 Cover)",
+      "artist": "十五少女",
+      "has_synced": true,
+      "path": "select/03_ノンブレス・オブリージュ(十五少女_Cover)_十五少女.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_ノンブレス・オブリージュ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ - COVER",
+      "artist": "Yuu Miyashita",
+      "has_synced": true,
+      "path": "select/05_ノンブレス・オブリージュ_-_COVER_Yuu_Miyashita.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク",
+      "has_synced": true,
+      "path": "select/06_ノンブレス・オブリージュ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Non-breath oblige - PinocchioP (ENGLISH Cover) ノンブレス・オブリージュ",
+      "artist": "Trickle",
+      "has_synced": false,
+      "path": "select/07_Non-breath_oblige_-_PinocchioP_(ENGLISH_Cover)_ノンブレス・オブリージュ_Trickle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ - Cover",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/08_ノンブレス・オブリージュ_-_Cover_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ（十五少女 Cover）",
+      "artist": "十五少女",
+      "has_synced": true,
+      "path": "select/09_ノンブレス・オブリージュ(十五少女_Cover)_十五少女.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ - STUDY WITH MIKU ver. -",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/10_ノンブレス・オブリージュ_-_STUDY_WITH_MIKU_ver._-_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ (Cover) - Non-breath oblige (Cover)",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/11_ノンブレス・オブリージュ_(Cover)_-_Non-breath_oblige_(Cover)_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/12_ノンブレス・オブリージュ_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ (Cover)",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/13_ノンブレス・オブリージュ_(Cover)_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ（十五少女 Cover）",
+      "artist": "Fifteen voices",
+      "has_synced": true,
+      "path": "select/14_ノンブレス・オブリージュ(十五少女_Cover)_Fifteen_voices.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ (COVER)",
+      "artist": "Yuu Miyashita",
+      "has_synced": true,
+      "path": "select/15_ノンブレス・オブリージュ_(COVER)_Yuu_Miyashita.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/16_ノンブレス・オブリージュ_ピノキオピー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_ノンブレス・オブリージュ_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_02_ノンブレス・オブリージュ_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_03_ノンブレス・オブリージュ_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_04_ノンブレス・オブリージュ_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_05_ノンブレス・オブリージュ_ピノキオピー.txt"
+    }
+  ]
+}
